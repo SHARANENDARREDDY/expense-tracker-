@@ -1,0 +1,20 @@
+[
+    {
+        "ID": 1,
+        "amount": "10",
+        "category": "food",
+        "description": "dinner"
+    },
+    {
+        "ID": 2,
+        "amount": "20",
+        "category": "food",
+        "description": "lunch"
+    },
+    {
+        "ID": 3,
+        "amount": 10.0,
+        "category": "food",
+        "description": "breakfast"
+    }
+]
